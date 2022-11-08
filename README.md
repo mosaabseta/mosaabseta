@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mosaabseta
-- 👀 I’m interested in mobile app development and AI
-- 🌱 I’m currently learning flutter , python and firebase
+- 👀 I’m interested in mobile app development, AI & ML
+- 🌱 I’m currently learning flutter, firebase, AI & ML
 - 💞️ I’m looking to collaborate on any of the above
 - 📫 How to reach me throw my email: mosaabhmat@gmail.com
 
